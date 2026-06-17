@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AdtyRz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-riqi-6a31783b3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addtya.riqi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.riqi1003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdtyRz)
 
 <br/>
@@ -42,7 +42,7 @@ const adityaRiqi = {
   coffeLevel  : "92%",
   motivation  : "100%",
   currentFocus: "Building cool stuff",
-  nowPlaying  : "Lo-fi Hip Hop Radio 🎵",
+  nowPlaying  : "Untukku - Chrisye 🎵",
   funFact     : "My orange cat has a +35% productivity bonus & +98% interruption rate",
   quote       : "The best engineer is not the one who knows everything, but the one who is always curious to learn."
 };
